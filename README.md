@@ -4,7 +4,12 @@ My name is Kayleigh Soukup. The purpose of this project is to demonstrate my abi
 
 The main data used in this analysis is a list of video games sold as physical copies, sorted by name and publisher. Some games appear multiple times as they are released in different platforms. In order to fit the criteria to be added to this dataset, the game had to have sold at least 100,000 copies. There were 14,413 total rows, with 10,347 distinct video game titles, covering the years 1980 to 2012. The data shows the rise of boxed sales revenue peaking in 2010 as the video game industry matured as well as the negative impact on boxed sales that mobile gaming and digital downloads had on the boxed sales market.
 
-To view the code for this project without using a notebook platform, select "VGSales.html". To recreate this project, please ensure that all CSV files in the "Dependables" zip folder are added to the same folder as the Notebook file "VGSales.ipynb" in order for the code to run properly.
+- **"Analysis of Physical Videogame Sales 1980-2012.pdf"** - The powerpoint presentation for this project, showcasing the findings of the data using Excel and Tableau visualizations
+- **"VGSales.ipynb"** - The notebook file for this project, showcasing preparation of the data for analysis by using python (Pandas), SQL, and DTale
+- **"VGDSales.html"** - The notebook file saved in HTML format for viewing
+- **"Dependables.zip"** - Contains the CSV files necessary to run "VGSales.ipynb"
+
+To recreate this project, please ensure that all CSV files in the "Dependables" zip folder are added to the same folder as the Notebook file "VGSales.ipynb" in order for the code to run properly.
 
 
 
